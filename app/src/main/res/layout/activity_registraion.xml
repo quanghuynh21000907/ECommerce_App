@@ -64,6 +64,7 @@
         android:elevation="3dp"
         android:layout_marginTop="10dp"
         android:hint="Password"
+        android:inputType="textPassword"
         android:textAllCaps="false"
         android:textStyle="bold"
         android:padding="15dp"
